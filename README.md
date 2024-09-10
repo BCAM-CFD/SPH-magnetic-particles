@@ -38,6 +38,7 @@
 --------------------------------------------------------------------
 
 -------------------------- INSTALLATION -------------------------------
+
 After download MCF/mcf/ folder,
 I suppose you have already installed PPM library
 in a proper path,
@@ -82,6 +83,7 @@ to compile mcf code,
 to install mcf executable binary at ...../mcf/mcf_install/ folder.
 
 -------------- USE -----------------------------------------------
+
 Three input files are required to launch a simulation. Examples of
 these input files can be found in the 'mcf_config' directory. The
 details of the inputs are explained within those files.
