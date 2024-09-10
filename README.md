@@ -33,8 +33,7 @@
      Xin Bian.
      Adolfo Vazquez-Quesada.
 
- Contact: a.vazquez-quesada@fisfun.uned.es
-          mellero@bcamath.org
+ Contact: a.vazquez-quesada@fisfun.uned.es, mellero@bcamath.org
 --------------------------------------------------------------------
 
 -------------------------- INSTALLATION -------------------------------
