@@ -36,6 +36,7 @@
      Adolfo Vazquez-Quesada.
 
  Contact: a.vazquez-quesada@fisfun.uned.es, mellero@bcamath.org
+ 
 --------------------------------------------------------------------
 
 -------------------------- INSTALLATION -------------------------------
@@ -88,4 +89,5 @@ to install mcf executable binary at ...../mcf/mcf_install/ folder.
 Three input files are required to launch a simulation. Examples of
 these input files can be found in the 'mcf_config' directory. The
 details of the inputs are explained within those files.
+
 -------------------------------------------------------------------
