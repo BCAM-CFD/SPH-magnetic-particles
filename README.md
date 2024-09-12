@@ -1,5 +1,6 @@
 # SPH-magnetic-particles
-![alt text](https://github.com/BCAM-CFD/SPH-magnetic-particles/blob/main/freq1_6_crit_omega.gif)
+<p>
+<img src="https://github.com/BCAM-CFD/SPH-magnetic-particles/blob/main/freq1_6_crit_omega.gif" height="400rm" align="right">
 
  Code for simulating suspensions with magnetic particles using the SPH  method.
 
