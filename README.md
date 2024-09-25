@@ -4,6 +4,9 @@
 
  Code for simulating suspensions with magnetic particles using the SPH  method.
 
+
+
+
 ----------------------- DESCRIPTION ------------------------
 
  Code for simulating suspensions with magnetic particles using the SPH
