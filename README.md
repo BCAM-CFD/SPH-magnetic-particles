@@ -11,6 +11,7 @@
 
  Code for simulating suspensions with magnetic particles using the SPH
  method. The  following magnetic  interactions have  been implemented:
+ 
     1. Dipole-dipole  forces  between  particles.   
     2. Dipole-dipole  torques between particles.
     3. Magnetic torque  on individual particles.
