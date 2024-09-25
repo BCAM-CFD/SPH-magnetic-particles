@@ -27,10 +27,9 @@
      field. Physics of Fluids. 29, pp. 032006, 2017.
 
     The  following magnetic  interactions have  been implemented
-    1. Dipole-dipole  forces  between  particles.   
-    
-    2. Dipole-dipole  torques between particles.
-    3. Magnetic torque  on individual particles.
+    - Dipole-dipole  forces  between  particles.  
+    - Dipole-dipole  torques between particles.
+    - Magnetic torque  on individual particles.
 
  This code is  based on the original MCF code  developed by Xin Bian.
  The  current version  has  been developed  in collaboration  between
